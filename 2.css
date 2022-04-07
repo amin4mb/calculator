@@ -19,7 +19,7 @@ input.inpuut{
     height: 75px;
     text-size-adjust: none;
     resize: none;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     font-size: 20px;
     text-align: right;
 
@@ -38,3 +38,32 @@ input.inpuut{
     font-size: 20px;
 
     }
+
+    
+.unexpected-8 {
+
+    border:3px solid;
+    outline:3px solid #0000;
+    outline-offset:100px;
+    transition:0s;
+  }
+  .unexpected-8:hover {
+    outline-offset:-3px;
+    border-color:#0000;
+    outline-color:currentColor;
+    transition:0.5s;
+  }
+
+  .unexpected-7 {
+    padding:8px;
+    border:3px solid;
+    outline:3px solid;
+    outline-offset:-3px;
+    transition:0s;
+  }
+  .unexpected-7:hover {
+    outline-offset:100px;
+    outline-color:#0000;
+    transition:0.5s;
+  }
+  
