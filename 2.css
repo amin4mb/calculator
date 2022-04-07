@@ -1,0 +1,40 @@
+body{
+    text-align:-webkit-center;
+}
+
+.main{
+
+    background-color: darksalmon;
+    width: 80%;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+    height: 90%;
+}
+
+input.inpuut{
+    background-color: rgb(255, 255, 255);
+    width: 50%;
+    padding: 5px;
+    height: 75px;
+    text-size-adjust: none;
+    resize: none;
+    margin-bottom: 10px;
+    font-size: 20px;
+    text-align: right;
+
+}
+
+    table{
+    text-align: center;
+    margin-left:30%;
+    border-spacing: 15px;
+
+    }
+
+    table input{
+        
+        padding: 30px;
+    font-size: 20px;
+
+    }
